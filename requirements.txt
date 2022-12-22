@@ -1,0 +1,7 @@
+aia==0.2.0
+certifi==2022.12.7
+ipython==8.7.0
+mypy==0.991
+pylint==2.15.9
+pyopenssl==22.1.0
+types-pyopenssl==22.1.0.2
